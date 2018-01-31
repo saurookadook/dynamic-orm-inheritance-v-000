@@ -1,4 +1,5 @@
-!#bin/usr/env ruby
+#!bin/usr/env ruby
+
 require 'sqlite3'
 
 require_relative "../lib/interactive_record.rb"
